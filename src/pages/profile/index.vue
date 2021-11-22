@@ -1,6 +1,6 @@
 <template>
     <view class="content">
-        <u-button type="success">成功</u-button>
+        <u-button class="button-layout__item" text="超小尺寸" size="mini" type="warning"></u-button>
     </view>
 </template>
 
